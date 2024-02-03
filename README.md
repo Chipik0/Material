@@ -1,6 +1,6 @@
 # Material
 **1.** About\
-**2.** Quick Start
+**2.** [Quick Start](#QuickStart)
 
 ## About
 A library to help you create programs with the selection of colors from wallpapers. Windows only! (Yet)
@@ -10,7 +10,7 @@ A library to help you create programs with the selection of colors from wallpape
 <img src="https://i.postimg.cc/0yxzxt47/image.png" width="700">
 
 
-## Quick Start
+## Quick Start <a name="QuickStart"></a>
 ##### How to get the most popular color from image? 
 ```
 import material
