@@ -1,8 +1,8 @@
 # Material
-**1.** About\
+**1.** [About](#about)\
 **2.** [Quick Start](#quick_start)
 
-## About
+## About  <a name="about"></a>
 A library to help you create programs with the selection of colors from wallpapers. Windows only! (Yet)
 > An example of using Material: Creating a GUI.
 
